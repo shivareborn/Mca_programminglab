@@ -27,3 +27,17 @@ print("Perimeter of rectangle 1:", obj1.peri())
 print("Area of rectangle 2:", obj2.area())
 print("Perimeter of rectangle 2:", obj2.peri())
 obj1.compare(obj2)
+
+
+----------------------OUTPUT------------------------
+
+
+Enter the length of first rectangle: 3
+Enter the breadth of first rectangle: 6
+Enter the length of second rectangle: 4
+Enter the breadth of second rectangle: 4
+Area of rectangle 1: 18
+Perimeter of rectangle 1: 18
+Area of rectangle 2: 16
+Perimeter of rectangle 2: 16
+Area of the 1st rectangle is greater.
