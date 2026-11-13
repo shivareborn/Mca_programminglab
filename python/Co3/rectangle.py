@@ -18,3 +18,20 @@ if ob1>ob2:
     print("rectangle1 is greater than rectangle2")
 else:
     print("rerctangle1 is less than or equal to rectangle2")
+
+
+-------------------------OUTPUT-------------------------
+
+
+enter the length and breadth of first object 
+Enter length of the rectangle :5
+Enter breadth of the rectangle:3
+enter the length and breadth of second object 
+Enter length of the rectangle :6
+Enter breadth of the rectangle:3
+area of r1 18
+area of r2 15
+rerctangle1 is less than or equal to rectangle2
+
+
+-----------------------------------------------------------
