@@ -35,3 +35,19 @@ np = int(input("enter the number of pages:"))
 obj = Python(n,t,a,p,np)
 obj.display()
 
+
+-----------------------!OUTPUT!-------------------------
+
+publisher name:abin
+enter the title:wings
+enter the author name :aksa
+enter the price of th ebook:400
+enter the number of pages:40
+book name abin
+author name  aksa
+title name  wings
+price amount  400.0
+number of pages  40
+
+----------------------------------------------------------
+
